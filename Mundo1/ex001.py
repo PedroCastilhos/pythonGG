@@ -1,3 +1,3 @@
-#Faça aparecer na tela a frase "Olá, mundo!"
+# 001: Faça aparecer na tela a frase "Olá, mundo!"
 
 print('Olá, Mundo');

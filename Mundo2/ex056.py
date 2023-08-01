@@ -17,6 +17,7 @@ s1 = input('Sexo1: ')
 s2 = input('Sexo2: ')
 s3 = input('Sexo3: ')
 s4 = input('Sexo4: ')
+# 056: Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.
 
 listaSexo = [s1,s2,s3,s4]
 

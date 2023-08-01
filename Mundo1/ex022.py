@@ -1,4 +1,4 @@
-#22 Crie um programa que leia o nome completo de uma pessoa e mostre:
+# 021: Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
 
 nome = 'Pedro Castilhos da Rosa'
 

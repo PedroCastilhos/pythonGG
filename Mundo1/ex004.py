@@ -1,6 +1,6 @@
 n = input('Digite algo: ')
 
-#Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+# 004: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
 #Saber o tipo primitivo do elemento
 print(type(n))
